@@ -1,8 +1,8 @@
 // ================================================
 //               Language: C++ / Cpp
 //               Topic   : [ForLoop]
-//               Problem : 👉👉 [1]SumOfN
-//               Want    : 
+//               Problem : 👉👉 [3]SumOfN
+//               Want    : SumOfN
 //                        
 // ================================================
 #include <iostream>
