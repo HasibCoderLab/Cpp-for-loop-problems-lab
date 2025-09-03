@@ -10,7 +10,7 @@ using namespace std;
 int main(){
     int n ; 
     int sum = 0;
-    for (int  i = 0; i <n > 0; i++)
+    for (;  n > 0; )
     {
         int digit = n%10;
         sum = sum + digit;
