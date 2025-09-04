@@ -1,7 +1,7 @@
 // ================================================
 //               Language: C++ / Cpp
 //               Topic   : [ForLoop]
-//               Problem : 👉👉 [2]
+//               Problem : 👉👉 [10]
 //               Want    : Print numbers from 1 to 10                       
 // ================================================
 #include <iostream>

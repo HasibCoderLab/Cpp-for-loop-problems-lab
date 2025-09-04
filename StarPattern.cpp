@@ -1,7 +1,7 @@
 // ================================================
 //               Language: C++ / Cpp
 //               Topic   : [For Loop]
-//               Problem : 👉 Star Pattern
+//               Problem : 👉 [11]Star Pattern
 //               Want    : Take input N and print star pattern
 // ================================================
 #include <iostream>
